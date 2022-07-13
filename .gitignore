@@ -1,0 +1,35 @@
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+#pycache folder
+/__pycache__/
+
+/data/
+
+/hooks/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+/*.egg
+
+# Eclipse project files
+*.project
+*.pydevproject
+
+*born-dig-accessioner.spec
+
+#pyinstaller spec file
+
+# My password file
+
+anyconnect_creds.txt
+config.yml
+
+# System files
+*.DS_Store
+
+#other
+*.README.md.html
